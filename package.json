@@ -1,0 +1,22 @@
+{
+  "name": "performance-artillery",
+  "version": "1.0.0",
+  "description": "Performance testing in NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scottcgit/performance-artillery.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scottcgit/performance-artillery/issues"
+  },
+  "homepage": "https://github.com/scottcgit/performance-artillery#readme",
+  "devDependencies": {
+    "artillery": "^1.6.0-26"
+  }
+}
