@@ -27,6 +27,7 @@ Run npm install
 Run artillery run artillery.yml
 ```
 
+```
 You will receive a report such as:
 Complete report @ 2019-01-02T17:32:36.653Z
   Scenarios launched:  300
@@ -44,8 +45,8 @@ Complete report @ 2019-01-02T17:32:36.653Z
   Codes:
     200: 300
     302: 300
-
 ```
+
 
 ## Acknowledgments
 
